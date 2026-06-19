@@ -1,6 +1,6 @@
 # Vaibhav Sisinty
 
-**Profile:** https://www.linkedin.com/in/vaibhavsisinty/
+**Profile:** [https://www.linkedin.com/in/vaibhavsisinty/](https://www.linkedin.com/in/vaibhavsisinty/)
 
 **Research Date:** 2026-06-19
 
@@ -10,7 +10,7 @@
 
 **Post Date:** 2026-06-18 (approx.)
 
-**Source:** https://www.linkedin.com/posts/vaibhavsisinty_everything-that-makes-claude-code-powerful-activity-7472982828587208707-hCmx
+**Source:** [https://www.linkedin.com/posts/vaibhavsisinty_everything-that-makes-claude-code-powerful-activity-7472982828587208707-hCmx](https://www.linkedin.com/posts/vaibhavsisinty_everything-that-makes-claude-code-powerful-activity-7472982828587208707-hCmx)
 
 **Summary:**
 
@@ -29,7 +29,7 @@ Vaibhav highlights five lesser-known Claude Code commands that he believes most 
 
 **Post Date:** 2026-06-16
 
-**Source:** https://www.linkedin.com/posts/vaibhavsisinty_google-ai-studio-is-free-and-most-people-activity-7472269346157891584-zIgq
+**Source:** [https://www.linkedin.com/posts/vaibhavsisinty_google-ai-studio-is-free-and-most-people-activity-7472269346157891584-zIgq](https://www.linkedin.com/posts/vaibhavsisinty_google-ai-studio-is-free-and-most-people-activity-7472269346157891584-zIgq)
 
 **Summary:**
 
@@ -48,7 +48,7 @@ This post focuses on Google AI Studio and positions it as an underutilized tool 
 
 **Post Date:** 2026-06-13
 
-**Source:** https://www.linkedin.com/posts/vaibhavsisinty_jeff-bezos-just-came-out-of-retirement-his-activity-7471177996041711616-ORb8
+**Source:** [https://www.linkedin.com/posts/vaibhavsisinty_jeff-bezos-just-came-out-of-retirement-his-activity-7471177996041711616-ORb8](https://www.linkedin.com/posts/vaibhavsisinty_jeff-bezos-just-came-out-of-retirement-his-activity-7471177996041711616-ORb8)
 
 **Summary:**
 
@@ -67,7 +67,7 @@ Vaibhav discusses Jeff Bezos's leadership role in an AI startup focused on engin
 
 **Post Date:** Week of June 9–12, 2026 (relative timestamp observed during research)
 
-**Source:** https://www.linkedin.com/posts/vaibhavsisinty_this-is-genuinely-one-of-the-wildest-things-activity-7470455051145314304-5im_
+**Source:** [https://www.linkedin.com/posts/vaibhavsisinty_this-is-genuinely-one-of-the-wildest-things-activity-7470455051145314304-5im](https://www.linkedin.com/posts/vaibhavsisinty_this-is-genuinely-one-of-the-wildest-things-activity-7470455051145314304-5im)_
 
 **Summary:**
 
