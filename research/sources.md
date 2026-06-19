@@ -129,3 +129,30 @@ Experts were selected based on:
 Profiles were identified through manual research and industry recommendations. Content referenced elsewhere in this repository consists of original summaries, observations, and key takeaways written in my own words, with links back to the original source material.
 
 No LinkedIn posts or creator content are reproduced in full. The purpose of this repository is to analyze recurring patterns, frameworks, and strategic approaches used by successful B2B SaaS content creators and marketers.
+
+
+## Research Coverage Summary
+
+This repository analyzes 10 practitioners across multiple perspectives relevant to LinkedIn organic content strategy:
+
+- B2B SaaS GTM & Demand Generation:
+  - Sangram Vajre
+  - Dave Gerhardt
+
+- Personal Branding & Creator-Led Growth:
+  - Justin Welsh
+  - Vaibhav Sisinty
+
+- Content Marketing & Distribution:
+  - Amanda Natividad
+  - Ross Simmonds
+
+- Indian SaaS & Startup Operators:
+  - Paras Chopra
+  - Aman Goel
+  - Aadit Palicha
+
+- Marketing, Branding & Reputation Analysis:
+  - Karthik Srinivasan
+
+This mix was intentionally selected to balance Indian and global perspectives while covering founder-led content, marketing strategy, demand generation, audience growth, content distribution, and brand-building.
