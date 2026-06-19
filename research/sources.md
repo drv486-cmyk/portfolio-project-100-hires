@@ -63,11 +63,11 @@ Experts were selected based on:
 ## 5. Aman Goel
 
 **Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/amangoel/
+**Profile:** https://in.linkedin.com/in/goel-aman
 **Primary Platform:** LinkedIn
-**Focus:** Startup growth and community-led learning
+**Focus:** B2B SaaS entrepreneurship, Voice AI, building and scaling startups
 **Latest Content Reviewed:** Documented in `/research/linkedin-posts/aman_goel.md`
-**Why Selected:** Associated with GrowthX and known for sharing startup growth, learning systems, and community-building insights.
+**Why Selected:** Co-Founder & CEO of GreyLabs AI (Voice AI for Financial Services) and IIT Bombay alum; previously co-founded Cogno AI, acquired by Exotel in 2021. Brings a second-time founder's perspective on building and scaling B2B SaaS products.
 
 ---
 
