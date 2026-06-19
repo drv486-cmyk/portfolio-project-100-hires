@@ -8,119 +8,123 @@ This research studies how successful B2B SaaS marketers and founders use LinkedI
 
 Experts were selected based on:
 
-* Proven, hands-on experience in B2B SaaS (founders, CMOs, operators, and practitioners rather than generic influencers)
-* Consistent LinkedIn content creation over time
-* Practical and actionable insights
-* Strong engagement and recognition within the B2B SaaS ecosystem
-* A deliberate mix of India-based and global voices to balance local context with established international best practices
+- Proven, hands-on experience in B2B SaaS (founders, CMOs, operators, and practitioners rather than generic influencers)
+- Consistent LinkedIn content creation over time
+- Practical and actionable insights
+- Strong engagement and recognition within the B2B SaaS ecosystem
+- A deliberate mix of India-based and global voices to balance local context with established international best practices
 
 ---
 
+## LinkedIn Experts Research Sources
+
 ## 1. Sangram Vajre
 
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/sangramvajre/
-**Primary Platform:** LinkedIn
-**Focus:** B2B SaaS growth, GTM strategy, demand generation
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/sangram_vajre.md`
-**Why Selected:** Former CMO of Terminus and founder of GTM Partners. Shares practical frameworks for SaaS growth, go-to-market execution, and category creation.
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/sangramvajre/](https://www.linkedin.com/in/sangramvajre/)  
+Primary Platform: LinkedIn  
+Focus: Go-to-Market (GTM), B2B SaaS, AI strategy, revenue growth  
+Latest Content Reviewed: Documented in /research/linkedin-posts/sangram_[vajre.md](http://vajre.md)  
+Why Selected: Founder of GTM Partners and former Terminus CEO whose content focuses on go-to-market strategy, AI adoption, and the operational foundations of B2B growth. He consistently provides practical insights on aligning strategy, execution, and revenue operations.
 
 ---
 
 ## 2. Vaibhav Sisinty
 
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/vaibhavsisinty/
-**Primary Platform:** LinkedIn
-**Focus:** LinkedIn growth and personal branding
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/vaibhav_sisinty.md`
-**Why Selected:** Widely recognized for LinkedIn audience-building strategies and personal branding education, particularly among founders and professionals in India.
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/vaibhavsisinty/](https://www.linkedin.com/in/vaibhavsisinty/)  
+Primary Platform: LinkedIn  
+Focus: AI tools, growth, productivity, creator economy  
+Latest Content Reviewed: Documented in /research/linkedin-posts/vaibhav_[sisinty.md](http://sisinty.md)  
+Why Selected: Founder of GrowthSchool and a prominent voice in India's AI and creator ecosystem. His content provides a useful case study in evaluating the reliability of AI-related thought leadership, combining both highly accurate industry commentary and engagement-driven content that benefits from fact-checking.
 
 ---
 
 ## 3. Paras Chopra
 
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/paraschopra/
-**Primary Platform:** LinkedIn
-**Focus:** SaaS, entrepreneurship, product growth
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/paras_chopra.md`
-**Why Selected:** Founder of Wingify (VWO) and respected SaaS entrepreneur who frequently shares thoughtful insights on building software businesses and products.
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/paraschopra/](https://www.linkedin.com/in/paraschopra/)  
+Primary Platform: LinkedIn  
+Focus: SaaS, entrepreneurship, AI strategy, product growth  
+Latest Content Reviewed: Documented in /research/linkedin-posts/paras_[chopra.md](http://chopra.md)  
+Why Selected: Founder of Wingify (VWO) and one of India's most respected SaaS entrepreneurs. His content combines thoughtful analysis of AI, technology, business strategy, and entrepreneurship with well-reasoned, often contrarian perspectives backed by real operating experience.
 
 ---
 
 ## 4. Karthik Srinivasan
 
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/karts/
-**Primary Platform:** LinkedIn
-**Focus:** Digital marketing, branding, communications, and content strategy
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/karthik_srinivasan.md`
-**Why Selected:** One of India's most respected marketing and communications professionals, known for thoughtful analysis of branding, advertising, social media, and content trends. His content provides valuable insights into audience engagement and strategic communication.
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/karts/](https://www.linkedin.com/in/karts/)  
+Primary Platform: LinkedIn  
+Focus: Branding, advertising, communications, reputation management  
+Latest Content Reviewed: Documented in /research/linkedin-posts/karthik_[srinivasan.md](http://srinivasan.md)  
+Why Selected: One of India's most respected brand and communications strategists, known for analyzing advertising, branding, reputation management, and consumer behavior. His content offers detailed breakdowns of real-world marketing campaigns and brand decisions.
 
 ---
 
 ## 5. Aman Goel
 
-**Research Date:** 2026-06-19
-**Profile:** https://in.linkedin.com/in/goel-aman
-**Primary Platform:** LinkedIn
-**Focus:** B2B SaaS entrepreneurship, Voice AI, building and scaling startups
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/aman_goel.md`
-**Why Selected:** Co-Founder & CEO of GreyLabs AI (Voice AI for Financial Services) and IIT Bombay alum; previously co-founded Cogno AI, acquired by Exotel in 2021. Brings a second-time founder's perspective on building and scaling B2B SaaS products.
+Research Date: 2026-06-19  
+Profile: [https://in.linkedin.com/in/goel-aman](https://in.linkedin.com/in/goel-aman)  
+Primary Platform: LinkedIn  
+Focus: Startups, fundraising, SaaS, entrepreneurship  
+Latest Content Reviewed: Documented in /research/linkedin-posts/aman_[goel.md](http://goel.md)  
+Why Selected: Co-Founder and CEO of GreyLabs AI and previously Co-Founder of Cogno AI. His content is rooted in first-hand startup experience, covering fundraising, founder-market fit, company building, and long-term entrepreneurial growth.
 
 ---
 
 ## 6. Justin Welsh
 
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/justinwelsh/
-**Primary Platform:** LinkedIn
-**Focus:** LinkedIn content systems and personal branding
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/justin_welsh.md`
-**Why Selected:** One of the most influential LinkedIn creators globally, known for building scalable content systems and documented audience-growth frameworks.
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/)  
+Primary Platform: LinkedIn  
+Focus: Personal branding, entrepreneurship, creator business, audience growth  
+Latest Content Reviewed: Documented in /research/linkedin-posts/justin_[welsh.md](http://welsh.md)  
+Why Selected: One of the most influential voices in the solo entrepreneur and creator economy space. His content demonstrates a highly effective content-to-funnel strategy built around consistent storytelling, audience building, and sustainable business growth.
 
 ---
 
 ## 7. Dave Gerhardt
 
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/davegerhardt/
-**Primary Platform:** LinkedIn
-**Focus:** B2B SaaS marketing and demand generation
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/dave_gerhardt.md`
-**Why Selected:** Former SaaS marketing executive and founder of Exit Five. Known for practical demand-generation and content-marketing strategies.
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)  
+Primary Platform: LinkedIn  
+Focus: B2B marketing, brand building, demand generation, community growth  
+Latest Content Reviewed: Documented in /research/linkedin-posts/dave_[gerhardt.md](http://gerhardt.md)  
+Why Selected: Founder of Exit Five and former B2B SaaS marketing executive. His content focuses on practical marketing execution, demand generation, community building, and the evolving role of AI in B2B marketing.
 
 ---
 
 ## 8. Amanda Natividad
 
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/amandanat/
-**Primary Platform:** LinkedIn
-**Focus:** Content marketing and audience growth
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/amanda_natividad.md`
-**Why Selected:** Shares highly actionable content marketing frameworks and audience-building strategies backed by practical experience.
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/)  
+Primary Platform: LinkedIn  
+Focus: Zero-click marketing, content strategy, audience growth, B2B marketing  
+Latest Content Reviewed: Documented in /research/linkedin-posts/amanda_[natividad.md](http://natividad.md)  
+Why Selected: Creator of the Zero-Click Marketing framework and Chief Evangelist at SparkToro. Her content provides actionable insights into modern content distribution, audience building, product launches, and sustainable marketing growth.
 
 ---
 
 ## 9. Ross Simmonds
 
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/rosssimmonds/
-**Primary Platform:** LinkedIn
-**Focus:** Content distribution and content marketing
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/ross_simmonds.md`
-**Why Selected:** Recognized authority on content distribution, repurposing, and maximizing the reach of content assets.
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/rosssimmonds/](https://www.linkedin.com/in/rosssimmonds/)  
+Primary Platform: LinkedIn  
+Focus: Content distribution, AI visibility, SEO, B2B growth  
+Latest Content Reviewed: Documented in /research/linkedin-posts/ross_[simmonds.md](http://simmonds.md)  
+Why Selected: Founder of Foundation and a recognized authority on content distribution and audience growth. His content explores how AI, search, communities, and content ecosystems are reshaping modern marketing and brand visibility.
 
 ---
 
 ## 10. Aadit Palicha
-**Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/aadit-palicha/
-**Primary Platform:** LinkedIn
-**Focus:** Startup growth, execution, scaling, entrepreneurship
-**Why Selected:** Co-founder and CEO of Zepto. Regularly shares insights on company building, hiring, execution, fundraising, and scaling high-growth businesses in India.
+
+Research Date: 2026-06-19  
+Profile: [https://www.linkedin.com/in/aadit-palicha/](https://www.linkedin.com/in/aadit-palicha/)  
+Primary Platform: LinkedIn  
+Focus: Startups, AI adoption, operations, supply chain technology  
+Latest Content Reviewed: Documented in /research/linkedin-posts/aadit_[palicha.md](http://palicha.md)  
+Why Selected: Co-Founder and CEO of Zepto, one of India's fastest-growing technology companies. His content offers a founder's perspective on scaling operations, enterprise AI adoption, automation, and building high-growth technology businesses in India.
 
 ---
 
@@ -130,7 +134,6 @@ Profiles were identified through manual research and industry recommendations. C
 
 No LinkedIn posts or creator content are reproduced in full. The purpose of this repository is to analyze recurring patterns, frameworks, and strategic approaches used by successful B2B SaaS content creators and marketers.
 
-
 ## Research Coverage Summary
 
 This repository analyzes 10 practitioners across multiple perspectives relevant to LinkedIn organic content strategy:
@@ -138,20 +141,16 @@ This repository analyzes 10 practitioners across multiple perspectives relevant 
 - B2B SaaS GTM & Demand Generation:
   - Sangram Vajre
   - Dave Gerhardt
-
 - Personal Branding & Creator-Led Growth:
   - Justin Welsh
   - Vaibhav Sisinty
-
 - Content Marketing & Distribution:
   - Amanda Natividad
   - Ross Simmonds
-
 - Indian SaaS & Startup Operators:
   - Paras Chopra
   - Aman Goel
   - Aadit Palicha
-
 - Marketing, Branding & Reputation Analysis:
   - Karthik Srinivasan
 
