@@ -52,11 +52,11 @@ Experts were selected based on:
 ## 4. Karthik Srinivasan
 
 **Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/karthiksrinivasan/
+**Profile:** https://www.linkedin.com/in/karts/
 **Primary Platform:** LinkedIn
-**Focus:** Digital marketing and content strategy
+**Focus:** Digital marketing, branding, communications, and content strategy
 **Latest Content Reviewed:** Documented in `/research/linkedin-posts/karthik_srinivasan.md`
-**Why Selected:** Consistently publishes well-reasoned marketing commentary and content trend analysis relevant to both Indian and global audiences.
+**Why Selected:** One of India's most respected marketing and communications professionals, known for thoughtful analysis of branding, advertising, social media, and content trends. His content provides valuable insights into audience engagement and strategic communication.
 
 ---
 
