@@ -115,14 +115,12 @@ Experts were selected based on:
 
 ---
 
-## 10. Katelyn Bourgoin
-
+## 10. Aadit Palicha
 **Research Date:** 2026-06-19
-**Profile:** https://www.linkedin.com/in/katelynbourgoin/
+**Profile:** https://www.linkedin.com/in/aadit-palicha/
 **Primary Platform:** LinkedIn
-**Focus:** Customer research and messaging
-**Latest Content Reviewed:** Documented in `/research/linkedin-posts/katelyn_bourgoin.md`
-**Why Selected:** Provides valuable insights into audience psychology, customer research, and how those insights improve content effectiveness.
+**Focus:** Startup growth, execution, scaling, entrepreneurship
+**Why Selected:** Co-founder and CEO of Zepto. Regularly shares insights on company building, hiring, execution, fundraising, and scaling high-growth businesses in India.
 
 ---
 
